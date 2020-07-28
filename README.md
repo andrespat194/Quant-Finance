@@ -17,3 +17,11 @@ Para GUIs de Git (interfaces graficas que les facilitan el uso del Git) pueden i
 https://git-scm.com/downloads/guis
 
 SourceTree o GitHub Desktop deberian ser suficientes.
+
+Por ultimo tambien (no recomendado) pueden directamente bajarse el zip de todo elrepositorio en el boton verde de esta misma pagina (Code)
+ y apretar download Zip. Alli descomprimen la carpeta donde queiran y tienen la ultima version del repositorio.
+ 
+## Notebooks
+
+Solamente les van a correr si tienen todo el repositorio cargado, porque suelen ir a buscar codigo a la carpeta Codigo dentro del repositorio. 
+No los van a poder "bajar" de a uno y correrlos.
